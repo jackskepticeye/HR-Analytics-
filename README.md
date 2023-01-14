@@ -1,6 +1,6 @@
 # HR-Analytics-
 
-In this Tableau workbook, I have been aiming to draw useful insights which can be used by HR .
+In this project, I use Tableau Public to analyse and visualise several HR questions regarding attrition in an organisation..
 The dataset is highly detailed, it conatins columns such as Marital Status, Job Satisfaction, Job Role, etc.
 In the General Attrition Summary Dashboard, I have displayed some key insights which can be useful for the HR to go through at a glance.
 The plots can be filtered by Education filter.
